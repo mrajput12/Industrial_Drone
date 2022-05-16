@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/faraz/catkin_ws/install/setup.sh
